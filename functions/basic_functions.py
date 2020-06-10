@@ -1,3 +1,4 @@
+# adds in Platform column into datatable which represents on what platforms the show or movie is availble on
 def plat(row):
     string = ''
     if row['Netflix'] == 1:
