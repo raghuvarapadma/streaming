@@ -1,7 +1,7 @@
 # main function
 import numpy as numpy
 import pandas as pd
-from movies_shows_selection import *
+from functions.movies_shows_selection import *
 
 def main():
     # asks the user if they want to sort through shows or movies
