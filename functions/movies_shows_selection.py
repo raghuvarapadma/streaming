@@ -1,7 +1,7 @@
 import numpy as numpy
 import pandas as pd
-from basic_functions import *
-from user_selection import *
+from functions.basic_functions import *
+from functions.user_selection import *
 
 def movies_or_shows():
     while True:
